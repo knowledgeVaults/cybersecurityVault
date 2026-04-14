@@ -1,0 +1,2 @@
+
+An **Open Redirect attack** is a web security vulnerability where a website allows users to be redirected to any external URL without proper validation (ex: *https://example.com/login?redirect=https://fake_website.com*)
